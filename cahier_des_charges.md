@@ -48,7 +48,7 @@ Instaurer le paramètre : probabilité que deux personnes se rencontrent et aien
 puis on regarde s'ils ont un rapport sexuel et s'il y a contamination.
 
 
-Repartition des taches : 
+#Repartition des taches : 
 
 
 
