@@ -12,7 +12,8 @@ Environnement
 
 - variables:
 http://vih.org/20171129/vih-en-france-en-2017/139817
-- regions francaises: 
+- CAS DE DECOUVERTES PAR AN DE SIDA DANS LES DIFFERENTES REGIONS FRANCAISE
+
 - Ile-De-France (206/milion) -> 2472
 - Haut de France (49) ->294
 - Grand Est (53)->295
