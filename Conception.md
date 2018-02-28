@@ -19,9 +19,9 @@ Grand Est (53)->295
 Noramndie (44)->154
 Bretagne (28)->130
 Pays de la Loire (47)->175
-Centre Val de Loire (48)->
-Bourgogne Franche Comté (37)
-Nouvelle Aquitaine (45)
+Centre Val de Loire (48)->125
+Bourgogne Franche Comté (37)->104
+Nouvelle Aquitaine (45)->266
 Auvergne Rhone Alpes (61)->476
 Occitanie (77)->439
 Provence Alpes Cote d'Azur (74)->370
