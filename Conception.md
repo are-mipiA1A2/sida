@@ -7,4 +7,11 @@ sexualité (homosexuel, hétérosexuel, bisexuel), genre, niveau de vie (seuil d
 - procédures:
 rapport sexuelle (anal, vaginal), rapport sanguin
 
+
 Environnement
+
+- variables:
+Métropoles (Paris, Lille, Lyon, Marseille, Bordeaux, Toulouse, Nantes, Strasbourg)
+
+
+
