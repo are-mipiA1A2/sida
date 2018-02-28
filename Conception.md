@@ -7,4 +7,4 @@ sexualité (homosexuel, hétérosexuel, bisexuel), genre, niveau de vie (seuil d
 - procédures:
 rapport sexuelle (anal, vaginal), rapport sanguin
 
-Envirronnement
+Environnement
