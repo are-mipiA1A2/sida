@@ -1,4 +1,4 @@
-#Membres du groupe: 
+#membres du groupe: 
 
 AFERIAT Sophia BENBOUAZZA Alex GOVART Alice RAMAHERISON Manon
 
