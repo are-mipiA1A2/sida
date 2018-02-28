@@ -2,7 +2,7 @@ Système
 -> agents:
 
 - attributs:
-sexualité (homosexuel, hétérosexuel, bisexuel), genre, niveau de vie (seuil de pauvreté), contraception 
+sexualité (homosexuel, hétérosexuel, bisexuel), genre (homme, femme), niveau de vie (seuil de pauvreté), contraception 
 
 - procédures:
 rapport sexuelle (anal, vaginal), rapport sanguin
@@ -30,8 +30,11 @@ http://vih.org/20171129/vih-en-france-en-2017/139817
 - Martinique (172)->65
 - Guyane (907)->227
 - Reunion (43)->36
-- Mayotte (183)->47
-  
+- Mayotte (183)->471
 
 
-
+  : lieu de naissance :
+- nés à l'étranger : hommes hétéros --> 15%
+                      femmes hétéros --> 23%
+- nés en France : hommes hétéros --> 9%
+                  femmes hétéros --> 7%
