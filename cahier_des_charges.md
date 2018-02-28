@@ -35,13 +35,13 @@ Instaurer le paramètre : probabilité que deux personnes se rencontrent et aien
 
 28 février 2018:
 
-- conception du projet, on a trouvé les agents principaux et intéractions. On a choisit de se baser en fonction de chiffres par régions en France
-- debut de programmation: 
-- On a definit une population de 60 milions de chiffres representant la population Francaise regroupé dans une matrice
-- On suppose 50% de femmes et 50% d'hommes dans notre population, soit 30 milions de femmes et 30 milions d'hommes
-- On suppose 1% de femmes lesbiennes, 7% de gay, 3,5% de bisexuel
-- On crée une liste pour chaque cas : Lesbienne, gay, bisexuel, hommes, femmes
-- On prend au hasard deux inbdividus dans la population
-- 
+  - conception du projet, on a trouvé les agents principaux et intéractions. On a choisit de se baser en fonction de chiffres par régions en France
+  - debut de programmation: 
+  - On a definit une population de 60 milions de chiffres representant la population Francaise regroupé dans une matrice
+  - On suppose 50% de femmes et 50% d'hommes dans notre population, soit 30 milions de femmes et 30 milions d'hommes
+  - On suppose 1% de femmes lesbiennes, 7% de gay, 3,5% de bisexuel
+  - On crée une liste pour chaque cas : Lesbienne, gay, bisexuel, hommes, femmes
+  - On prend au hasard deux inbdividus dans la population
+
 
 - Repartition des taches :
