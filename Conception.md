@@ -33,6 +33,10 @@ http://vih.org/20171129/vih-en-france-en-2017/139817
 - Mayotte (183)->471
 
 
+
+
+
+
   : lieu de naissance :
 - nés à l'étranger : hommes hétéros --> 15%
                       femmes hétéros --> 23%
