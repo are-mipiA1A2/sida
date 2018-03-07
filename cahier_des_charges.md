@@ -49,5 +49,7 @@ Instaurer le paramètre : probabilité que deux personnes se rencontrent et aien
 - on a décider de faire une matrice de tuple qui nous permet de faire correspondre a chaque individus les différents paramètres choisis
 - 1e paramètre: Homme (1) ou Femme (0)
 - 2e paramètre: Gay/Lesbienne en fonction du genre et du pourcentage choisit
+- On a ensuite créé un programme qui simule une rencontre aléatoire entre deux individus
+- puis nous avons fait un programme de compatibilité entre les deux individus d'avoir une relation 
 
 - Repartition des taches :
