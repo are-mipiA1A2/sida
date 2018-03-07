@@ -43,5 +43,11 @@ Instaurer le paramètre : probabilité que deux personnes se rencontrent et aien
  - On crée une liste pour chaque cas : Lesbienne, gay, bisexuel, hommes, femmes
  - On prend au hasard deux inbdividus dans la population
 
+7 Mars 2018:
+
+- On a refait une matrice plus simple:
+- on a décider de faire une matrice de tuple qui nous permet de faire correspondre a chaque individus les différents paramètres choisis
+- 1e paramètre: Homme (1) ou Femme (0)
+- 2e paramètre: Gay/Lesbienne en fonction du genre et du pourcentage choisit
 
 - Repartition des taches :
