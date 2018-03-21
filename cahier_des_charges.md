@@ -52,4 +52,13 @@ Instaurer le paramètre : probabilité que deux personnes se rencontrent et aien
 - On a ensuite créé un programme qui simule une rencontre aléatoire entre deux individus
 - puis nous avons fait un programme de compatibilité entre les deux individus d'avoir une relation 
 
-- Repartition des taches :
+14 Mars:
+
+- On s'est réparti les taches:
+Manon et Alice ont codé pour rajouter le paramètre des régions sur la matrice définissant un individu
+Alex et Sophia ont réalisé des programmes pour le programme final
+
+21 Mars:
+.
+- On a arrangé le programme final qui ne fonctionnait pas : SIDA
+
