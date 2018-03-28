@@ -59,6 +59,14 @@ Manon et Alice ont codé pour rajouter le paramètre des régions sur la matrice
 Alex et Sophia ont réalisé des programmes pour le programme final
 
 21 Mars:
-.
+
 - On a arrangé le programme final qui ne fonctionnait pas : SIDA
+
+28 Mars
+
+- On a corrigé les bugs dans nos différents programmes
+- On a créé un fonction permettant de remplacer les paramètres des individus dans la matrice générale
+- On a donc pu remplacer le paramètre infection apres un rapport non protagé entre deux individus et ainsi faire apparaitre l'infection et donc la propagation de l'infection 
+
+
 
